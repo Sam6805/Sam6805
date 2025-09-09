@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sam6805
-- 👀 I’m interested in singing and exploring new things.
+- 👀 I’m interested in learning and exploring new things.
 - 🌱 I’m currently learning DSA in C++.
 
 <!---
